@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Gemini_Competition.props" />
+</Project>

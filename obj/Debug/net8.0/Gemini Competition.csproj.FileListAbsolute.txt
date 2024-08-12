@@ -1,0 +1,64 @@
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\appsettings.Development.json
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\appsettings.json
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Gemini Competition.exe
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Gemini Competition.deps.json
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Gemini Competition.runtimeconfig.json
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Gemini Competition.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Gemini Competition.pdb
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Firebase.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Google.Apis.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Google.Apis.Auth.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Google.Apis.Core.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\LiteDB.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\System.CodeDom.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\System.Management.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\System.Reactive.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Management.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini Competition.csproj.AssemblyReference.cache
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini Competition.GeneratedMSBuildEditorConfig.editorconfig
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini Competition.AssemblyInfoInputs.cache
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini Competition.AssemblyInfo.cs
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini Competition.csproj.CoreCompileInputs.cache
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini Competition.MvcApplicationPartsAssemblyInfo.cs
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini Competition.MvcApplicationPartsAssemblyInfo.cache
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\staticwebassets.build.json
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\staticwebassets.development.json
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\staticwebassets\msbuild.Gemini Competition.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\staticwebassets\msbuild.build.Gemini Competition.props
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Gemini Competition.props
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Gemini Competition.props
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\scopedcss\bundle\Gemini Competition.styles.css
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini C.C19AEAF9.Up2Date
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini Competition.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\refint\Gemini Competition.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini Competition.pdb
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini Competition.genruntimeconfig.cache
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\ref\Gemini Competition.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\firebasecredientials.json
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Google.Api.CommonProtos.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Google.Api.Gax.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Google.Api.Gax.Grpc.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Google.Cloud.Firestore.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Google.Cloud.Firestore.V1.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Google.Cloud.Location.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Google.LongRunning.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Google.Protobuf.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Grpc.Auth.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Grpc.Core.Api.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Grpc.Net.Client.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\System.Linq.Async.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\ExternalAssets\credentials.json
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\ExternalAssets\token.json
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\bin\Debug\net8.0\Python.Runtime.dll
+D:\Competitions\Gemini Competition\Gemeni Competition\Gemeni Competition\obj\Debug\net8.0\Gemini Competition.sourcelink.json
