@@ -1,0 +1,6 @@
+@Gemeni_Competition_HostAddress = http://localhost:5189
+
+GET {{Gemeni_Competition_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
