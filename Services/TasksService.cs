@@ -30,7 +30,8 @@ namespace Gemini_Competition.Services
                                     results.Add(new TranscribedTask
                                     {
                                         Title = taskTitle,
-                                        Description = taskDescrption
+                                        Description = taskDescrption,
+                                        IsCompleted = false
                                     });
                                 }
 

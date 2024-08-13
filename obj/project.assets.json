@@ -2968,9 +2968,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Competitions\\Gemini_Competition\\Gemini_Competition\\Gemini_Competition.csproj",
-      "projectName": "Gemini_Competition",
-      "projectPath": "D:\\Competitions\\Gemini_Competition\\Gemini_Competition\\Gemini_Competition.csproj",
+      "projectUniqueName": "D:\\Competitions\\Gemini_Competition\\Gemini_Competition\\ClearMindBackend.csproj",
+      "projectName": "ClearMindBackend",
+      "projectPath": "D:\\Competitions\\Gemini_Competition\\Gemini_Competition\\ClearMindBackend.csproj",
       "packagesPath": "C:\\Users\\zyada\\.nuget\\packages\\",
       "outputPath": "D:\\Competitions\\Gemini_Competition\\Gemini_Competition\\obj\\",
       "projectStyle": "PackageReference",

@@ -5,6 +5,7 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 //Environment.SetEnvironmentVariable("GOOGLE_APPLICATION_CREDENTIALS", @"firebasecredientials.json");
+/*
 builder.WebHost.ConfigureKestrel(serverOptions =>
 {
     // Get the port from environment variables, default to 5000 if not set
@@ -13,6 +14,7 @@ builder.WebHost.ConfigureKestrel(serverOptions =>
     // Listen on all available IP addresses
     serverOptions.Listen(IPAddress.Any, port);
 });
+*/
 builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

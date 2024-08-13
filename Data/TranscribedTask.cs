@@ -11,5 +11,7 @@ namespace Gemini_Competition.Data
         public string Description { get; set; }
         [FirestoreProperty]
         public Timestamp Deadline { get; set; }
+        [FirestoreProperty]
+        public bool IsCompleted { get; set; }
     }
 }

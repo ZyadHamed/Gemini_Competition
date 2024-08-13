@@ -30,5 +30,11 @@ namespace Gemini_Competition.Controllers
             bool result = await _fireStoreService.AddNewTranscription(userEmail, transcription);
             return Ok(result);
         }
+        [HttpGet]
+        public async Task<List<Transcription>> GetTranscriptions(string userEmail)
+        {
+            User user = await _fireStoreService.GetUserAsync(userEmail);
+            return user.Transcriptions;
+        }
     }
 }
